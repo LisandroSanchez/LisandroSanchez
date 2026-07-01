@@ -31,7 +31,7 @@ Ingeniero de software Full Stack jr. Dedicado a construir el futuro de la web me
 
 ## 🌱 Actualmente aprendiendo
 
-* preparacion para la certificacion en la carrera de la maestria en ia.
+* Preparacion para la certificacion en la carrera de la maestria en ia.
 * Profundizando en Arquitecturas de Software.
 * Perfeccionando mi nivel C1 de Inglés.
 
